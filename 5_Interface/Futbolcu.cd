@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_5_Interface.BaseFutbolcu">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAIAIAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>BaseFutbolcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_5_Interface.Defans">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Defans.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_5_Interface.Forvet">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAQAAAAAAAAFAAAAAAAAAIAAAAE=</HashCode>
+      <FileName>Forvet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_5_Interface.Kaleci">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAFAAAABAAAAAAABAE=</HashCode>
+      <FileName>Kaleci.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="_5_Interface.IFutbolcu">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IFutbolcu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_5_Interface.IKaleci">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAABAA=</HashCode>
+      <FileName>IKaleci.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

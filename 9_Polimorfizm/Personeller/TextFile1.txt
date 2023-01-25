@@ -1,0 +1,15 @@
+﻿
+
+Calisanlar ile igili base class yapiniz.
+Sekreter ,Muhasebeci , Yazilimci,
+
+Yonetici olsun. Yonetici de performansa gore 
+ 
+Maas Ve Kesinti Metodlari olsun
+1- Maas icin Egitim Durumu 
+   Eger Lise Mezunu ise kademe farki olmayacak.
+   Eger Univ. Mezunu ise %20 fark
+   Eger Yuksek Lisans Mezunu ise %30 fark
+   Cocuk Sayisi * 300 Tl fark
+2- Gelmedigi gun sayis 3 gunden fazla ise
+   gun sayisi * 100 TL Kesinti uygulanacak. 

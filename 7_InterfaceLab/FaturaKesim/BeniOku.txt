@@ -1,0 +1,4 @@
+﻿Marketteki Bir kasiyeri modelleyin.
+1- Fatura Kesilecek
+2- Ödeme alinacak (Nakit ,KrediKarti,Sodexso v.b. cesitlendirin.)
+

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_4_Kalitim.Hayvanlar.Baliklar">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Hayvanlar\Baliklar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Kalitim.Hayvanlar.Kanatlilar">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAIAAFAA=</HashCode>
+      <FileName>Hayvanlar\Kanatlilar.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_4_Kalitim.Hayvanlar.Memeliler">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAEAAAAAAAEAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hayvanlar\Memeliler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_4_Kalitim.Hayvanlar.Surungenler">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAIAAEAA=</HashCode>
+      <FileName>Hayvanlar\Surungenler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="_4_Kalitim.Hayvanlar.SolunumTipi" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hayvanlar\Baliklar.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

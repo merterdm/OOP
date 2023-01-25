@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_9_Polimorfizm.Emlak.BaseEmlak">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAQJgAAgAACCAIAAAAACAACAAAAAAAAAAAAAIEAAA=</HashCode>
+      <FileName>Emlak\BaseEmlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_Polimorfizm.Emlak.KonutDaire">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak\KonutDaire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_9_Polimorfizm.Emlak.Residance">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak\Residance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_9_Polimorfizm.Emlak.EmlakTipi" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAgAAAAAAAAAIAEAABQAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>Emlak\BaseEmlak.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_9_Polimorfizm.Emlak.Kimden" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAEAAAACAAA=</HashCode>
+      <FileName>Emlak\BaseEmlak.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

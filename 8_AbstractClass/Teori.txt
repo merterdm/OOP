@@ -1,0 +1,15 @@
+﻿/*
+         
+         Abstract Metodlari tanimlarken dikkart edilmesi gerekenler
+         
+
+         1- Abstract metodlar private olarak isaretlenemezler.
+         2-Abstract metodlar sadece abstract classlarda tanimlanabilir
+         3-Abstract metodlar static olarak tanimlanamazlar. Statik kavrami class 
+           ozelligi yada metod ozelligi oldugundan instance cikarmaya gerek yoktur.
+           Halbukli statik olmayan metodlar instnace metodlar.
+        4- Abstract metodlarin govdesi olmaz .
+        5- Abstract metodlar virtual olarak tanimlanamazlar. Abstract metodlar metod imzasi ile calisir. Govdesi yoktur.
+           Virtual metodlarin govdesi vardir. 
+        6- Virtaul metodlar inherit verdigi yerlerde ovveride edilebilirler. Yani Govdesi yeniden tanimlanabilir
+*/
